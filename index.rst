@@ -1,263 +1,124 @@
 
-<!doctype html>
-<html lang="en-us" prefix="og:http://ogp.me/ns#">
-  <head>
-   <meta charset="utf-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="assets/images/fav-icon.png" type="image/png" sizes="40x38">
-    <!-- Required meta tags -->
-	<title>https //ij.start.canon | Ij.Start Canon | http //ij.start.canon</title>
-	<meta name="keywords" content="https //ij.start.canon | Ij.Start Canon | http //ij.start.canon">
-     <meta name="description" content="ij.start.canon setup instructions for managing and setting up Canon wireless printer. Visit http //ij.start.canon and enter your model number to install drives">
+#############
+ij.start.canon | Canon printer drivers download
+#############
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
-    <!-- Slick Slider CSS -->
-    <link rel="stylesheet" href="assets/css/slick.css" type="text/css">
-    <!-- Hover Effect CSS -->
-    <link rel="stylesheet" href="assets/css/hover-min.css" type="text/css">
-<!-- fancybox CSS -->
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
-    <!-- Fontawesome CSS -->
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css" type="text/css">
-    <!--  Theme Css -->
-    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
-	    <!--  Theme Css -->
-    <link rel="stylesheet" href="assets/css/bootstrap-icons.css" type="text/css">
+ij.start canon is the manufacturer site to download Canon printer drivers. Install and set up Canon Printer from ij.start.canon and obtain high-quality printing documents straightforwardly. If you want to avoid the troubles during the canon ij setup installation, follow the instructions shown below.
+
+|
+
+.. image:: get-started-button.png
+    :width: 300px
+    :align: center
+    :height: 100px
+    :alt: ij.start.canon
+    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
+    
+|
 
 
-  </head>
+*************
+Where is my Canon printer model number?
+*************
 
-  <body>
-  <!-- Header Start -->
-  <header class="header sticky-top bg-black">
-<!-- Navabr Start-->
-  <nav class="navbar navbar-expand-lg  ">
-    <div class="container">
-    <a class="navbar-brand" href="/" title="eBookReader"><img src="assets/images/logo.png" class="img-fluid"></a>
-    <!--button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <em class="fas fa-bars"></em>
-      </button-->
+|
 
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto ">
-        <li class="nav-item active">
-          <a class="nav-link" href="/" title="Home">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/#about-us" title="Know about Router Login">Know about Router Login </a>
-        </li>     
-        
-      </ul>
-      <!--a href="" title="" class="request-a-quote">Download</a-->
-  </div>
-    </div>
-  </nav>
-<!-- Navabr End-->
-</header>
-<!-- Header End -->
+.. image:: Canon-printer.png
+    :width: 500px
+    :align: center
+    :height: 200px
+    :alt: ij.start.canon
+    :target: https://can-ijsetup.readthedocs.io/en/latest/index.html
+    
+|
 
-<!-- Main Slider start -->
-<section class="p-0 main-slider">
-  <div>
-    <div class="container">
-      <div class="row">
-        <div class="col">
-    <div class="slider-text">
-    <h1 class="text-white font-weight-bold">IJ START PRINTER SETUP</h1>
-        <p class="text-white mb-0"><span class="d-block">Get 24/7 Help for IJ Start Printer Setup</span>
-</div>
-</div>
-</div>
-</div>
-    <img src="assets/images/banner.jpg" alt="IJ START PRINTER SETUP" class="img-fluid">
-  </div>
-</section>
-<!-- Main Slider End -->
-<!-- why the Dataware start -->
-<section id="about-us" class="why-the-dataware pb-4">
-<div class="container">
-  <div class="row">
-  <div class="col-lg-7">
-  <h5 class="text-red text-uppercase">About US</h5>
-    <h2>Get Started with ij.start.canon</h2>
-    <p>Whenever you will buy a new printer, the first thing you have to do is set up the printer with the printer driver’s installation. If you are having a Canon Printer, then you need to install the printer drivers online as per your model. You just need to land on https//ij.start.canon and you can install the desired printer driver. This link will not only help you to have the printer driver installed into your system but also you can get the solutions to your problems associated with the printer as well. So, get to know about everything in just a few steps.</p>
+Search for your product name or model number from the front or top of the Canon printer. The location may vary.
 
-  </div>
-    <div class="col-lg-5"><img src="assets/images/ij-start-canon.jpg" alt="Get Started with ij.start.canon" class="img-fluid hvr-float"></div>
-	
+*************
+Step-by-step instructions for installing the printer driver
+*************
 
-</div>
-  <div class="row">
-  <div class="col-lg-12">
-	<h3>Start Your Printer with ij.start.canon</h3>
-	<p>Canon printers are the best printers for home and office use. Their numerous features and best quality prints make them a good choice. So, if you have made this your first choice and bought it, you need to complete your printer’s setup by signing up in ij.start.canon. It is compatible with both operating systems, i.e. Windows, and macOS. So, you will get to know about the steps for both the operating systems. </p>
-</div>
-</div>
-</div>
-</section>
+**Here is a simple, detailed and complete printer driver installation procedure to install canon printer drivers**
 
+* If you have not set a file location, you only need to access your downloads folder to run the file you downloaded. Double -click the ij.start.canon installation file and click Run to quickly extract the file.
+* The Canon Main Driver Installation Interface will be displayed on your screen. Before proceeding to the next page, check the language you will be using for the printer management software. So, to edit it, click on the “Languages” tab and it will show all the available options. Choose a language you understand well and then click “Next” on the main screen.
+* You now need to set up a connection between the printer and the computer. To do this, you can select a USB connection or a wireless connection method. When the printer is successfully linked, you just need to select your printer. Depending on your printer model, a list of drivers and other additional software will be displayed.
+* Select the checkboxes for the desired software package. Also, you should have enough space to download the printer driver. If you do not have enough space on your computer, remove some unwanted programs from your system. Now click Next and go to ij.start.canon settings.
+* The license agreement window will appear on the screen. You should read each statement in this document to avoid problems in the future. To give your consent to the license agreement, you must select Yes. This will immediately begin the installation of the selected drivers and additional software.
+* After the driver installation is complete, you can test the operation of your printer by printing a page. To do this, there must be several A4 pages in the printer tray. Then click the Power button and your printer will print the page quickly. This completes the installation of the driver using ij.start.canon.
 
-<section class="py-4 bg-gray">
-<div class="container">
-  <div class="row">
-	 <div class="col-lg-12 mt-3"> 
-	<h2>Setup with Windows</h2>
-	<p>If you are having the Windows operating system, then one should follow these steps:</p> 
-</div>
-</div>
-<div class="row mt-3">
-<div class="col-lg-5 "> 
-<img src="assets/images/add-printer-in-windows-10.jpg" alt="Add Printer in Windows 10" class="img-fluid hvr-float">
-</div>
- <div class="col-lg-7"> 
-<ul class="list-styled">
-<li><strong>Step 1:</strong> First, assemble the printer, and connect it to the system in which you want to do the setup.</li>
-<li><strong>Step 2:</strong>   Now, start your system, and launch your choice web browser like Google Chrome.</li>
-<li><strong>Step 3:</strong> In the URL field, type the official web address, ij.start.canon.</li>
-<li><strong>Step 4:</strong> So, with this, you will land on the official web page of Canon.</li>
-<li><strong>Step 5:</strong>  It will have various options. You have to click on the “Setup” Icon.</li>
-<li><strong>Step 6:</strong>  The page will get open asking you for the series and the product name.</li>
-<li><strong>Step 7:</strong>   After selecting the printer, click over the “Go” button.</li>
-<li><strong>Step 8:</strong>  Now, go to the Start icon, and click on that.</li>
-<li><strong>Step 9:</strong>  The on-screen instructions will appear in the window. Follow them to prepare the printer for you.</li>
-<li><strong>Step 10:</strong>  In the instructions, the download button will appear. Click on the Download button, to start the download.</li>
-<li><strong>Step 11:</strong>  In the Downloads folder, the .exe file format file will appear. Open the file having the same name extension.</li>
+*************
+Guide to Set Up Your Canon Inkjet Printer
+*************
 
-</ul>
+**Use a wireless connection or USB connection to set up your printer. Follow every single step mentioned here to set up Canon ij printer:-**
 
-</div>
-</div>
-<div class="row mt-3">
-<div class="col-lg-12 ">
-<ul class="list-styled">
-<li><strong>Step 12:</strong>  Next, the “User Account Control” will open up on the screen.</li>
-<li><strong>Step 13:</strong>  Click over the Yes button.</li>
-<li><strong>Step 14:</strong>  Now, in the next window, the “Start Setup” button will be there in the next window. Click on that.</li>
-<li><strong>Step 15:</strong>  After the completion of this process, the setup for the Canon Printer will get complete. Now, you can install the driver as required.</li>
-</ul>
-<p>These are the steps for the Windows operating system. In case, you are having the macOS, then you need to follow the steps mentioned in the next section.
-</p>
-</div>
-</div>
-</div>
-</section>
+===========
+Step 1- Configure the printer hardware
+===========
 
-<section class="py-5">
-<div class="container">
-  <div class="row">
-<div class="col-lg-12">
-<h2>Setup with macOS</h2>  
-    <p>In case, you are having the system from the Apple manufacturer, then you need to follow the steps given below:</p>
-	
+Take out all the canon printer elements from the box and assemble them on a clean surface. Then configure and connect to power, as well install Printhead and Ink Cartridges.
 
-	
-</div>
-</div>	
-	  <div class="row">
-<div class="col-lg-7">
-<ul class="list-styled">
-<li><strong>Step 1:</strong>: First, assemble the system, and connect it to your system.</li>
-<li><strong>Step 2:</strong>  Start your system, and then open Safari as the internet browser of your system.</li>
-<li><strong>Step 3:</strong> In the URL field, type the official web address, ij.start.canon.</li>
-<li><strong>Step 4:</strong> So, with this, you will land on the official web page of Canon.</li>
-<li><strong>Step 5:</strong> It will have various options. You have to click on the “Setup” Icon.</li>
-<li><strong>Step 6:</strong> The page will get open asking you for the series and the product name.</li>
-<li><strong>Step 7:</strong> After selecting the printer, click over the “Go” button.</li>
-<li><strong>Step 8:</strong> Now, go to the Start icon, and click on that.</li>
-<li><strong>Step 9:</strong> The on-screen instructions will appear in the window. Follow them to prepare the printer for you.</li>
-<li><strong>Step 10:</strong> In the instructions, the download button will appear. Click on the Download button, to start the download.</li>
-<li><strong>Step 11:</strong> In the Downloads folder, the .dmg file format file will appear. Open the file having the same name extension.</li>
-<li><strong>Step 12:</strong> Next, the “User Account Control” will open up on the screen.</li>
-<li><strong>Step 13:</strong> Click over the Yes button</li>
-<li><strong>Step 14:</strong> Now, in the next window, the “Start Setup” button will be there. Click on that.</li>
-<li><strong>Step 15:</strong> With this, you will complete the setup of the Canon Printer in macOS.</li>
-</ul>
+===========
+Step 2 – Visit ij.start.canon
+===========
 
-</div>
-<div class="col-lg-5">
-<img src="assets/images/ij-start-printer-setup-in-mac	.jpg" alt="Add Printer in Mac" class="img-fluid hvr-float">
-</div>
+On your PC or Laptop web address bar, enter ij.start.canon and Click Set Up.
 
-	</div>
+===========
+Step 3 – Enter Your Canon Printer Model
+===========
 
-<div class="row mt-3">
-<div class="col-lg-12">
-<p>Therefore, with this setup guide, you can successfully download the setup for Canon Printer and can use it according to your use.
-</p>
-<h4>Get Better Quality Prints</h4>
-<p>When one buys the printer or scanner, the very first thing they ask the dealer is about the print quality as it matters the most. For some, printers play an important role in their daily life. So, the Canon printers are best for them. The only thing they must take care of is the download of printer drivers with https//ij.start.canon, and they are all set to get better quality prints at their own place.</p>
+On ij.start canon page, enter or choose your Canon printer model and click Go. For it, see your printer’s front or top and find Canon model name.
 
-</div>
-</div>
+===========
+Step 4 – Download Canon Printer Drivers
+===========
 
-</div>
-</section>
+Select the correct operating system like Windows or Mac and click Download in front of the appropriate Canon drivers tab.
 
+===========
+Step 5 – Connect Ij printer to a wireless connection
+===========
 
+Use Wireless LAN Setup or WPS Push Button method to connect your printer with a network connection. You will require a wireless router as well.
 
+===========
+Step 6 – Start the printer software installation
+===========
 
+Once you download the setup from ij.start.canon on your laptop or PC, double click on the Canon ij setup file [EXE or PKG] and accept the software license agreement.
 
+|
 
+.. image:: Canon-printer-setup.png
+    :width: 500px
+    :align: center
+    :height: 300px
+    :alt: ij.start.canon
+    :target: https://can-ijsetup.readthedocs.io/en/latest/index.html
+    
+|
 
-<!-- Footer Start-->
-<footer class="footer">
-  <div class="top-footer">
-<div class="container"> 
-<div class="row">
-   <div class="col-md-12 mt-3">
-  <strong>Disclaimer</strong> <p>https-ij-start.com is an independent online technical support service provider company for third party products, brands and services. The brand names, images, trademarks, products and services of third parties mentioned on this website are only for referential purposes only and https-ij-start.com has no affiliation with any of these third-party companies unless such relationship is expressed specifically. The services we offer is also available on the website of the brand owners .</p>
-  </div>
-</div>
-</div>
+===========
+Step 7 – Select a connection type to continue
+===========
 
+Tick on Wireless connection or USB connection to select one and follow on-screen instructions to move ahead.
 
+===========
+Step 8 – Connect USB if available
+===========
 
-  </div>
+This step for ij start canon isn’t mandatory, however if you have a USB cable and the wireless connection method fails, in that case, choose a USB connection during installation. Thereafter, plug one side of the USB cable to the canon printer’s rear and another side to the PC, Laptop port.
 
+*************
+How to Establish a Wi-Fi connection on your Canon printer ?
+*************
 
+**Your printer must be properly connected to Wi-Fi before accessing ij.start.canon. Therefore, see the full proof steps below:**
 
-  <div class="bottom-footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-5">
-	  <ul class="list-unstyled d-inline">
-        <li>
-          <a href="disclaimer" title="Press">Disclaimer</a>
-        </li>
-      </ul>
-      
-      </div>
-	   <div class="col-md-6">
-     <p class="mb-0"> Copyright © 2022 |<a href="/" title="https-ij-start.com"> https-ij-start.com</a> | All Rights Reserved  </p>
-      </div>
-    </div>
-  </div>
-
-
-
-
-
-    </div>
-</footer>
-<!-- Footer close -->
-
-<!-- Go to top -->
-<button id="gototop" title="Go to top" class="gototop"><em class="fas fa-angle-up"></em></button>
-
-
-<!-- JavaScript -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="assets/js/bootstrap.bundle.min.js" type="text/javascript"></script>
-<script src="assets/js/slick.min.js" type="text/javascript"></script>
-
-<!--Custom Function JS -->
-<script src="assets/js/main.js"></script>
-
-       
-
-
-  </body>
-</html>
-
+* The first step is to go to ij.start.canon. This is Canon’s official website and secure platform where you can easily download Canon printer drivers. So to get started, open a compatible and highly secure web browser. Type ij.start.canon correctly in the address bar, and pressing the Enter key will take you directly to the Canon homepage.
+* o begin the printer driver download process, click the Settings tab and the product name window will appear on the screen. Because Canon recommends other software for your particular printer model, you must specify the model number by entering it in the search field. Click the “Go” button and the product download window will appear on the screen.
+* To make sure that the driver you are about to download is compatible with your operating system, you must select one of the operating system versions. Therefore, go to the OS field located in the upper right corner and select the appropriate operating system. * You will see the “Download” button in the center of the screen, click on it for a quick and easy download.
+* Depending on your Wi-Fi speed, the driver will download in minutes. In addition, it is not recommended to switch between different monitors, as this may cause software loading problems. When the loading processing is complete, move on to the next step of setting up ij.start.canon.
